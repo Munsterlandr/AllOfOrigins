@@ -1,0 +1,123 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "forge-36.1.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "All of Origins-1.01",
+  "author": "",
+  "files": [
+    {
+      "projectID": 449974,
+      "fileID": 3233791,
+      "required": true
+    },
+    {
+      "projectID": 319057,
+      "fileID": 3235777,
+      "required": true
+    },
+    {
+      "projectID": 319596,
+      "fileID": 3235711,
+      "required": true
+    },
+    {
+      "projectID": 372124,
+      "fileID": 3202749,
+      "required": true
+    },
+    {
+      "projectID": 411455,
+      "fileID": 3221019,
+      "required": true
+    },
+    {
+      "projectID": 446029,
+      "fileID": 3224992,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 2987255,
+      "required": true
+    },
+    {
+      "projectID": 420709,
+      "fileID": 3243861,
+      "required": true
+    },
+    {
+      "projectID": 446907,
+      "fileID": 3233729,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 3242750,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3248105,
+      "required": true
+    },
+    {
+      "projectID": 356461,
+      "fileID": 3175437,
+      "required": true
+    },
+    {
+      "projectID": 401833,
+      "fileID": 3185590,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 3247360,
+      "required": true
+    },
+    {
+      "projectID": 455770,
+      "fileID": 3249260,
+      "required": true
+    },
+    {
+      "projectID": 457647,
+      "fileID": 3241591,
+      "required": true
+    },
+    {
+      "projectID": 398419,
+      "fileID": 3238710,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3067101,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 3215441,
+      "required": true
+    },
+    {
+      "projectID": 361988,
+      "fileID": 3227191,
+      "required": true
+    },
+    {
+      "projectID": 391943,
+      "fileID": 3240251,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
